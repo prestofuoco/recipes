@@ -9,4 +9,4 @@
 	- [ ] 1 tsp salt
 - [ ] bake
 	- [ ] 200g+ coarsely chopped chocolate
-	- [ ] 30-32 minutes @ 350˚F
+	- [ ] 30-32 minutes @ 350°F

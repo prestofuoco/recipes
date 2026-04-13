@@ -7,10 +7,10 @@
 - [ ] dry mix
 	- [ ] 120g all-purpose flour
 	- [ ] 28g cocoa powder
-	- [ ] 1 tsp baking sodakk
+	- [ ] 1 tsp baking soda
 	- [ ] 1/2 tsp salt
 - [ ] add in
 	- [ ] ~170g chocolate chips
 - [ ] bake
 	- [ ] 9 inch loaf pan
-	- [ ] 50-60 minutes @ 350˚F
+	- [ ] 50-60 minutes @ 350°F

@@ -12,4 +12,4 @@
 	- [ ] 50g granulated sugar
 	- [ ] 60g powdered sugar
 - [ ] bake
-	- [ ] ~14 minutes @ 350˚F
+	- [ ] ~14 minutes @ 350°F

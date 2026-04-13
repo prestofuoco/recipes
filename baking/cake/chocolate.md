@@ -12,4 +12,4 @@
 	- [ ] slowly add 230g boiling water
 - [ ] bake
 	- [ ] two 9 inch cake pans
-	- [ ] 30-35 minutes @ 350˚F
+	- [ ] 30-35 minutes @ 350°F

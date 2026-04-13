@@ -15,4 +15,4 @@
 	- [ ] 1 tsp ground cinnamon
 - [ ] bake
 	- [ ] roll cookie dough balls in topping mixture
-	- [ ] 10-12 minutes @ 375°f
+	- [ ] 10-12 minutes @ 375°F

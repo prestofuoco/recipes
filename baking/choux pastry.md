@@ -12,5 +12,5 @@
 	- [ ] whisk 5 eggs in separate bowl
 	- [ ] add in one at a time, stop when glossy
 - [ ] bake
-	- [ ] 400°f for 15 minutes
-	- [ ] 350°f for 20 minutes
+	- [ ] 400°F for 15 minutes
+	- [ ] 350°F for 20 minutes

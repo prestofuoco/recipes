@@ -22,4 +22,4 @@
 - [ ] bake
 	- [ ] 8-inch square pan
 	- [ ] batter, crumb mixture, batter, crumb mixture
-	- [ ] 35-40 minutes @ 350˚F
+	- [ ] 35-40 minutes @ 350°F

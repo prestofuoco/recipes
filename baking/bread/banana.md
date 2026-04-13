@@ -10,4 +10,4 @@
 - [ ] bake
 	- [ ] 9 inch loaf pan
 	- [ ] add chocolate chips
-	- [ ] 60 minutes @ 350˚F
+	- [ ] 60 minutes @ 350°F

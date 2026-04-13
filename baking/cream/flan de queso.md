@@ -14,4 +14,4 @@
 - [ ] bake
 	- [ ] add milk mix on top of caramel
 	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350˚F
+	- [ ] 50-60 minutes @ 350°F

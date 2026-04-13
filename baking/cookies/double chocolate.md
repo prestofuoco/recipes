@@ -12,4 +12,4 @@
 	- [ ] 1 tbsp milk
 - [ ] bake
 	- [ ] 225g chocolate chips
-	- [ ] ~11 minutes @ 350˚F
+	- [ ] ~11 minutes @ 350°F

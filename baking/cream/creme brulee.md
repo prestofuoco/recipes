@@ -11,5 +11,5 @@
 	- [ ] slowly add vanilla cream mixture to egg mixture
 	- [ ] pour into four ramekins
 	- [ ] place in baking dish filled with boiling hot water, halfway up ramekins
-	- [ ] 30-40 minutes @ 325˚F, until centers are barely set
+	- [ ] 30-40 minutes @ 325°F, until centers are barely set
 - [ ] let cool and refrigerate for several hours
