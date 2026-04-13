@@ -1,0 +1,25 @@
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 150g granulated sugar
+	- [ ] 2 large eggs
+	- [ ] 2 tsp vanilla extract
+	- [ ] 120g sour cream
+	- [ ] 2 tbsp milk
+- [ ] dry mix
+	- [ ] 166g all-purpose flour
+	- [ ] 1 tsp baking powder
+	- [ ] 1/4 tsp baking soda
+	- [ ] 1/4 tsp salt
+- [ ] cinnamon crumb mixture
+	- [ ] 135g brown sugar
+	- [ ] 95g all-purpose flour
+	- [ ] 2.5 tsp ground cinnamon
+	- [ ] 6 tbsp butter, cold and cubed
+- [ ] vanilla icing
+	- [ ] 120g powdered sugar, sifted
+	- [ ] 1/2 tsp vanilla extract
+	- [ ] 2 tbsp heavy cream
+- [ ] bake
+	- [ ] 8-inch square pan
+	- [ ] batter, crumb mixture, batter, crumb mixture
+	- [ ] 35-40 minutes @ 350˚F

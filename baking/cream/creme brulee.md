@@ -1,0 +1,15 @@
+- [ ] saucepan
+	- [ ] 475g heavy cream
+	- [ ] 1/8 tsp salt
+	- [ ] cook over low heat until just hot
+	- [ ] let sit for a few minutes
+	- [ ] add 1 tsp vanilla extract
+- [ ] wet mix
+	- [ ] 5 egg yolks
+	- [ ] 100g granulated sugar
+- [ ] bake
+	- [ ] slowly add vanilla cream mixture to egg mixture
+	- [ ] pour into four ramekins
+	- [ ] place in baking dish filled with boiling hot water, halfway up ramekins
+	- [ ] 30-40 minutes @ 325˚F, until centers are barely set
+- [ ] let cool and refrigerate for several hours

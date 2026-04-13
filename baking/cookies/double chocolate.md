@@ -1,0 +1,15 @@
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 100g granulated sugar
+	- [ ] 110g brown sugar
+	- [ ] 1 large egg
+	- [ ] 1 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 125g all-purpose flour
+	- [ ] 55g cocoa powder
+	- [ ] 1 tsp baking soda
+	- [ ] 1/8 tsp salt
+	- [ ] 1 tbsp milk
+- [ ] bake
+	- [ ] 225g chocolate chips
+	- [ ] ~11 minutes @ 350˚F

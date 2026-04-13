@@ -1,0 +1,15 @@
+- [ ] wet mix
+	- [ ] 244g whole milk
+	- [ ] 115g vegetable oil
+	- [ ] 2 large eggs
+	- [ ] 2 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 250g all-purpose flour
+	- [ ] 400g granulated sugar
+	- [ ] 80g cocoa powder
+- [ ] combine
+	- [ ] mix on medium speed until combined
+	- [ ] slowly add 230g boiling water
+- [ ] bake
+	- [ ] two 9 inch cake pans
+	- [ ] 30-35 minutes @ 350˚F

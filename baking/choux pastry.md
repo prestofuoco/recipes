@@ -1,0 +1,16 @@
+- [ ] combine in saucepan
+	- [ ] 125g water
+	- [ ] 125g whole milk
+	- [ ] 1/2 cup butter
+	- [ ] 1/2 tsp salt
+	- [ ] 1 tsp sugar
+	- [ ] cook to boil
+	- [ ] 150g bread flour
+	- [ ] mix in vigorously until thin film forms
+- [ ] transfer to mixing bowl
+	- [ ] beat for 3 minutes, until no steam
+	- [ ] whisk 5 eggs in separate bowl
+	- [ ] add in one at a time, stop when glossy
+- [ ] bake
+	- [ ] 400°f for 15 minutes
+	- [ ] 350°f for 20 minutes

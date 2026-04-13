@@ -1,0 +1,12 @@
+- [ ] wet mix
+	- [ ] 3/4 cup butter
+	- [ ] 400g granulated sugar
+	- [ ] 3 large eggs
+	- [ ] 2 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 125g all-purpose flour
+	- [ ] 82g cocoa powder
+	- [ ] 1 tsp salt
+- [ ] bake
+	- [ ] 200g+ coarsely chopped chocolate
+	- [ ] 30-32 minutes @ 350˚F

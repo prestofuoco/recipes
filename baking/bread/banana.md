@@ -1,0 +1,13 @@
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 165g brown sugar
+	- [ ] 2 large eggs
+	- [ ] 3 overripe bananas
+- [ ] dry mix
+	- [ ] 250g all-purpose flour
+	- [ ] 1 tsp baking soda
+	- [ ] 1/2 tsp salt
+- [ ] bake
+	- [ ] 9 inch loaf pan
+	- [ ] add chocolate chips
+	- [ ] 60 minutes @ 350˚F

@@ -1,0 +1,15 @@
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 200g granulated sugar
+	- [ ] 2 eggs
+- [ ] dry mix
+	- [ ] 250g all-purpose flour
+	- [ ] 30g matcha powder
+	- [ ] 1 tsp baking powder
+	- [ ] 1/2 tsp salt
+	- [ ] 1/8 tsp baking soda
+- [ ] roll in
+	- [ ] 50g granulated sugar
+	- [ ] 60g powdered sugar
+- [ ] bake
+	- [ ] ~14 minutes @ 350˚F

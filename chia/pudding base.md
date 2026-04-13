@@ -1,0 +1,4 @@
+- [ ] 2 tbsp chia seeds
+- [ ] 120g oat milk
+- [ ] 120g greek yogurt
+- [ ] 10g blue agave

@@ -1,0 +1,14 @@
+- [ ] activate yeast
+	- [ ] 316g warm water
+	- [ ] 1 tsbp granulated sugar
+	- [ ] packet of instant yeast
+	- [ ] cover and let rest for ~5 minutes
+- [ ] add ingredients
+	- [ ] 2 tbsp olive oil
+	- [ ] 1 tsp salt
+	- [ ] 437g all-purpose flour
+- [ ] knead for 5 minutes
+- [ ] let rise for 60-90 minutes
+- [ ] bake
+	- [ ] lay out and add toppings
+	- [ ] 13-15 minutes @ 475°f

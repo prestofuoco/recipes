@@ -1,0 +1,7 @@
+- [ ] 180g greek yogurt
+- [ ] 60g oat milk
+- [ ] 2 tbsp cocoa powder
+- [ ] 10g blue agave
+- [ ] 1/2 tsp salt
+- [ ] 1 scoop protein powder
+- [ ] 45g chia seeds
