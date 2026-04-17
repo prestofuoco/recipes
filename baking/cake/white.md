@@ -1,0 +1,15 @@
+- [ ] wet mix
+    - [ ] 170g unsalted butter
+    - [ ] 350g granulated sugar
+    - [ ] 5 large egg whites
+    - [ ] 120g sour cream
+    - [ ] 1 tbsp vanilla extract
+    - [ ] 240g whole milk
+- [ ] dry mix
+    - [ ] 295g cake flour
+    - [ ] 2 tsp baking powder
+    - [ ] 0.5 tsp baking soda
+    - [ ] 1 tsp salt
+- [ ] bake
+    - [ ] two 9 inch cake pans
+    - [ ] 24-25 minutes @ 350°F

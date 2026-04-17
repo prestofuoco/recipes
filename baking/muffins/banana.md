@@ -1,0 +1,19 @@
+- [ ] wet mix
+	- [ ] 6 tbsp melted butter
+	- [ ] 135g brown sugar
+	- [ ] 1 egg
+	- [ ] 1 tsp vanilla extract
+	- [ ] 30g milk
+	- [ ] 3 bananas
+- [ ] dry mix
+	- [ ] 190g ap flour
+	- [ ] 1 tsp baking powder
+	- [ ] 1 tsp baking soda
+	- [ ] 1/2 tsp salt
+	- [ ] 1 tsp ground cinnamon
+	- [ ] 1/4 tsp ground nutmeg
+- [ ] bake
+	- [ ] add mix-ins
+	- [ ] scoop into cupcake liners
+	- [ ] 5 minutes @ 425°F
+	- [ ] 16-18 minutes @ 350°F

@@ -12,4 +12,5 @@
 	- [ ] 1 tsp coarse salt
 	- [ ] dark chocolate
 - [ ] bake
+	- [ ] single scoop
 	- [ ] 10-12 minutes @ 350°F

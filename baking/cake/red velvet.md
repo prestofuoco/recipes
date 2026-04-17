@@ -1,0 +1,20 @@
+- [ ] wet mix
+    - [ ] 1/2 cup unsalted butter
+    - [ ] 400g granulated sugar
+    - [ ] 240g vegetable oil
+    - [ ] 4 egg yolks
+    - [ ] 1 tbsp vanilla extract
+    - [ ] 1 tsp white vinegar
+    - [ ] 2 tsp red gel food coloring
+- [ ] dry mix
+    - [ ] 360g cake flour
+    - [ ] 1 tsp baking soda
+    - [ ] 10g cocoa powder
+    - [ ] 1/2 tsp salt
+- [ ] combine
+    - [ ] slowly add dry ingredients alternating with 240g buttermilk
+    - [ ] beat in food coloring
+    - [ ] whip 4 egg whites whites until fluffy and fold into batter
+- [ ] bake
+    - [ ] two 9 inch cake pans
+    - [ ] 30-32 minutes @ 350°F

@@ -1,5 +1,0 @@
-- [ ] 3 tbsp chia seeds
-- [ ] 2 tsp matcha
-- [ ] 160g oat milk
-- [ ] 7g blue agave
-- [ ] 1/2 tsp vanilla extract

@@ -1,0 +1,4 @@
+- [ ] 20g chia seeds
+- [ ] 100g oat milk
+- [ ] 100g greek yogurt
+- [ ] 8g blue agave

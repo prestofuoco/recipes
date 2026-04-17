@@ -1,6 +1,6 @@
 - [ ] wet mix
-	- [ ] 244g whole milk
-	- [ ] 115g vegetable oil
+	- [ ] 250g whole milk
+	- [ ] 110g vegetable oil
 	- [ ] 2 large eggs
 	- [ ] 2 tsp vanilla extract
 - [ ] dry mix

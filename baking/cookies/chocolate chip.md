@@ -12,4 +12,4 @@
 	- [ ] 1/2 tsp salt
 - [ ] bake
 	- [ ] add chocolate chips
-	- [ ] ~10-15 minutes @ 325°F
+	- [ ] 10-15 minutes @ 325°F

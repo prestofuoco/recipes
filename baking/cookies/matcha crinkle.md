@@ -8,8 +8,8 @@
 	- [ ] 1 tsp baking powder
 	- [ ] 1/2 tsp salt
 	- [ ] 1/8 tsp baking soda
-- [ ] roll in
+- [ ] rolling
 	- [ ] 50g granulated sugar
 	- [ ] 60g powdered sugar
 - [ ] bake
-	- [ ] ~14 minutes @ 350°F
+	- [ ] 13-15 minutes @ 350°F

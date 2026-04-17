@@ -1,11 +1,11 @@
 - [ ] wet mix
 	- [ ] 1 cup butter
-	- [ ] 267g granulated sugar
+	- [ ] 270g granulated sugar
 	- [ ] 1 large egg
 	- [ ] 1 egg yolk
 	- [ ] 2 tsp vanilla extract
 - [ ] dry mix
-	- [ ] 375g all-purpose flour
+	- [ ] 380g all-purpose flour
 	- [ ] 2 tsp cream of tartar
 	- [ ] 1 tsp baking soda
 	- [ ] 1.5 tsp ground cinnamon
