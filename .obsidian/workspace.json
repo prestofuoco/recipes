@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baking/bread/template.md",
+                "file": "baking/cake/chocolate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "chocolate"
             }
           }
         ],
@@ -200,14 +200,15 @@
   },
   "active": "b5e8cd98b42091c3",
   "lastOpenFiles": [
-    "baking/bread/chocolate banana.md",
-    "baking/bread/banana.md",
     "baking/cake/coffee.md",
-    "baking/cake/chocolate.md",
-    "baking/cake/red velvet.md",
     "baking/cake/iced lemon pound.md",
     "baking/cake/vanilla.md",
+    "baking/cake/red velvet.md",
     "baking/cake/white.md",
+    "baking/cake/chocolate.md",
+    "baking/bread/template.md",
+    "baking/bread/chocolate banana.md",
+    "baking/bread/banana.md",
     "baking/cookies/banana bread.md",
     "baking/cookies/chocolate chip.md",
     "baking/cookies/chocolate oat.md",
@@ -215,7 +216,6 @@
     "baking/cookies/lemon crinkle.md",
     "baking/brownies.md",
     "baking/muffins/blueberry.md",
-    "baking/bread/template.md",
     "baking/muffins/banana.md",
     "baking/cream/cream cheese frosting.md",
     "baking/bread/pizza.md",

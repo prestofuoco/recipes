@@ -1,5 +1,5 @@
 - [ ] wet mix
-    - [ ] 340g unsalted butter
+    - [ ] 3/2 cup unsalted butter
     - [ ] 400g granulated sugar
     - [ ] 3 large eggs
     - [ ] 2 egg whites

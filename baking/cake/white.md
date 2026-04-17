@@ -1,5 +1,5 @@
 - [ ] wet mix
-    - [ ] 170g unsalted butter
+    - [ ] 3/4 cup unsalted butter
     - [ ] 350g granulated sugar
     - [ ] 5 large egg whites
     - [ ] 120g sour cream
