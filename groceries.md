@@ -18,19 +18,17 @@
 - [ ] onions
 - [ ] red onions
 - [ ] celery
-- [ ] ginger
 ## proteins & pantry
 - [x] tofu
 - [x] tempeh
 - [x] oats
+- [x] chia seeds
 - [ ] chickpeas
 - [ ] pesto
 - [ ] spices
 - [ ] dijon mustard
 - [x] protein bars
 - [x] blue agave
-- [x] soy sauce
-- [ ] bread
 ## baking
 - [x] ap flour
 - [x] bread flour

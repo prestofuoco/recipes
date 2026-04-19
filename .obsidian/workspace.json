@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe987dac7d9a22c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "baking/cake/chocolate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chocolate"
-            }
-          },
-          {
             "id": "96203130f5d1a8a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "groceries.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "groceries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,18 +185,18 @@
   },
   "active": "96203130f5d1a8a3",
   "lastOpenFiles": [
-    "sandwich/pesto tempeh.md",
-    "sandwich/sesame ginger tofu.md",
-    "groceries.md",
-    "baking/brownies.md",
     "baking/cake/chocolate.md",
+    "groceries.md",
+    "chia pudding base.md",
+    "sandwich/sesame ginger tofu.md",
+    "sandwich/pesto tempeh.md",
+    "baking/brownies.md",
     "baking/bread/template.md",
     "baking/bread/pizza.md",
     "baking/bread/chocolate banana.md",
     "baking/bread/banana.md",
     "sandwich",
     "baking/cake/white.md",
-    "chia pudding base.md",
     "baking/cake/coffee.md",
     "baking/cake/iced lemon pound.md",
     "baking/cake/vanilla.md",
