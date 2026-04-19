@@ -1,22 +1,18 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 165g brown sugar
+	- [ ] 2 large eggs
+	- [ ] 3 overripe bananas
+- [ ] dry mix
+	- [ ] 250g all-purpose flour
+	- [ ] 1 tsp baking soda
+	- [ ] 1/2 tsp salt
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] 9 inch loaf pan
+	- [ ] add chocolate chips
+	- [ ] 60 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #brown_sugar, #egg, #banana, #ap_flour, #baking_soda, #salt
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

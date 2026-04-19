@@ -1,22 +1,21 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1/2 cup butter, browned
+	- [ ] 100g brown sugar
+	- [ ] 50g granulated sugar
+	- [ ] 1 egg
+	- [ ] 1 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 130g ap flour
+	- [ ] 90g rolled oats
+	- [ ] 1 tsp baking soda
+	- [ ] 1 tsp cinnamon 
+	- [ ] 1 tsp coarse salt
+	- [ ] dark chocolate
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] single scoop
+	- [ ] 10-12 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #brown_sugar, #granulated_sugar, #egg, #vanilla_extract, #ap_flour, #baking_soda, #cinnamon, #salt, #chocolate
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

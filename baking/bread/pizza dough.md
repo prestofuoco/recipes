@@ -1,22 +1,19 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] activate yeast
+	- [ ] 320g warm water
+	- [ ] 13g granulated sugar
+	- [ ] packet of instant yeast
+	- [ ] cover and let rest for ~5 minutes
+- [ ] add ingredients
+	- [ ] 30g olive oil
+	- [ ] 1 tsp salt
+	- [ ] 440g+ all-purpose flour
+- [ ] knead for 5 minutes
+- [ ] let rise for 60-90 minutes
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] lay out and add toppings
+	- [ ] 13-15 minutes @ 475°f
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #granulated_sugar, #instant_yeast, #olive_oil, #salt, #ap_flour
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

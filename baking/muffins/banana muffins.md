@@ -1,22 +1,24 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 6 tbsp melted butter
+	- [ ] 135g brown sugar
+	- [ ] 1 egg
+	- [ ] 1 tsp vanilla extract
+	- [ ] 30g milk
+	- [ ] 3 bananas
+- [ ] dry mix
+	- [ ] 190g ap flour
+	- [ ] 1 tsp baking powder
+	- [ ] 1 tsp baking soda
+	- [ ] 1/2 tsp salt
+	- [ ] 1 tsp ground cinnamon
+	- [ ] 1/4 tsp ground nutmeg
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] add mix-ins
+	- [ ] scoop into cupcake liners
+	- [ ] 5 minutes @ 425°F
+	- [ ] 16-18 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #brown_sugar, #egg, #vanilla_extract, #milk, #banana, #ap_flour, #baking_powder, #baking_soda, #salt, #cinnamon, #ground_nutmeg
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

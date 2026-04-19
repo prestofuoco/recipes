@@ -1,29 +1,33 @@
 ## dairy & fridge
-- [x] oat milk
-- [x] eggs
+- [x] milk
+- [x] egg
 - [x] greek yogurt
 - [x] butter
 - [x] cream cheese
+- [x] heavy cream
+- [ ] greek yogurt
 - [ ] hummus
 - [ ] feta cheese
 ## produce & fresh
 - [x] cucumber
 - [x] spring mix
-- [x] apples
-- [x] bananas
-- [x] oranges
-- [x] lemons
+- [x] apple
+- [x] banana
+- [x] blueberry
+- [x] orange
+- [x] lemon
 - [ ] zucchini
-- [ ] bell peppers
-- [ ] onions
-- [ ] red onions
+- [ ] bell pepper
+- [ ] onion
+- [ ] red onion
 - [ ] celery
-- [ ] ginger
+- [x] ginger
 ## proteins & pantry
 - [x] tofu
 - [x] tempeh
 - [x] oats
-- [ ] chickpeas
+- [x] chia seeds
+- [ ] chickpea
 - [ ] pesto
 - [ ] spices
 - [ ] dijon mustard
@@ -31,16 +35,31 @@
 - [x] blue agave
 - [x] soy sauce
 - [ ] bread
+- [x] olive oil
+- [x] vegetable oil
+- [x] vinegar
 ## baking
 - [x] ap flour
 - [x] bread flour
+- [ ] cake flour
 - [x] granulated sugar
 - [x] brown sugar
 - [x] powdered sugar
 - [x] baking soda
 - [x] baking powder
+- [x] cornstarch
+- [x] cream of tartar
 - [x] chocolate
 - [x] cupcake liners
 - [x] vanilla extract
 - [x] instant yeast
 - [x] cocoa powder
+- [x] matcha powder
+- [x] cinnamon
+- [ ] ground nutmeg
+- [ ] walnut
+- [x] salt
+## canned & shelf-stable
+- [x] evaporated milk
+- [x] sweetened condensed milk
+- [x] food coloring

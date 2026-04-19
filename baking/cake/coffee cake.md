@@ -1,22 +1,30 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 150g granulated sugar
+	- [ ] 2 large eggs
+	- [ ] 2 tsp vanilla extract
+	- [ ] 120g greek yogurt
+	- [ ] 2 tbsp milk
+- [ ] dry mix
+	- [ ] 166g all-purpose flour
+	- [ ] 1 tsp baking powder
+	- [ ] 1/4 tsp baking soda
+	- [ ] 1/4 tsp salt
+- [ ] cinnamon crumb mixture
+	- [ ] 135g brown sugar
+	- [ ] 95g all-purpose flour
+	- [ ] 2.5 tsp ground cinnamon
+	- [ ] 6 tbsp butter, cold and cubed
+- [ ] vanilla icing
+	- [ ] 120g powdered sugar, sifted
+	- [ ] 1/2 tsp vanilla extract
+	- [ ] 2 tbsp heavy cream
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] 8-inch square pan
+	- [ ] batter, crumb mixture, batter, crumb mixture
+	- [ ] 35-40 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #vanilla_extract, #greek_yogurt, #milk, #ap_flour, #baking_powder, #baking_soda, #salt, #brown_sugar, #cinnamon, #powdered_sugar, #heavy_cream
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

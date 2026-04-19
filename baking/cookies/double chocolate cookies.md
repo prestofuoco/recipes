@@ -1,22 +1,20 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 100g granulated sugar
+	- [ ] 110g brown sugar
+	- [ ] 1 large egg
+	- [ ] 1 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 125g all-purpose flour
+	- [ ] 55g cocoa powder
+	- [ ] 1 tsp baking soda
+	- [ ] 1/8 tsp salt
+	- [ ] 1 tbsp milk
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] 225g chocolate chips
+	- [ ] 10-12 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #brown_sugar, #egg, #vanilla_extract, #ap_flour, #cocoa_powder, #baking_soda, #salt, #milk, #chocolate
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

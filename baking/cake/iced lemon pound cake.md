@@ -1,22 +1,20 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+  - [ ] 1 cup butter
+  - [ ] 200g granulated sugar
+  - [ ] 3 eggs
+  - [ ] 60g greek yogurt
+  - [ ] 45g lemon juice
+  - [ ] 1 tsp lemon zest
+  - [ ] 1 tsp vanilla extract
+- [ ] dry mix
+  - [ ] 188g all-purpose flour
+  - [ ] 1.5 tsp baking powder
+  - [ ] 0.5 tsp salt
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+  - [ ] 9 inch loaf pan
+  - [ ] 55-65 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #greek_yogurt, #lemon, #vanilla_extract, #ap_flour, #baking_powder, #salt
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

@@ -1,22 +1,23 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1 cup butter
+	- [ ] 270g granulated sugar
+	- [ ] 1 large egg
+	- [ ] 1 egg yolk
+	- [ ] 2 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 380g all-purpose flour
+	- [ ] 2 tsp cream of tartar
+	- [ ] 1 tsp baking soda
+	- [ ] 1.5 tsp ground cinnamon
+	- [ ] 0.5 tsp salt
+- [ ] topping
+	- [ ] 70g granulated sugar
+	- [ ] 1 tsp ground cinnamon
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] roll cookie dough balls in topping mixture
+	- [ ] 10-12 minutes @ 375°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #vanilla_extract, #ap_flour, #cream_of_tartar, #baking_soda, #cinnamon, #salt
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

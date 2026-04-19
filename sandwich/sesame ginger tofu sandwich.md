@@ -1,22 +1,19 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
-- [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+- [ ] filling
+	- [ ] 400g extra-firm tofu, cut into slabs & seared
+	- [ ] 15g soy sauce
+	- [ ] 1/2 juiced lemon
+	- [ ] 1 tsp ginger
+- [ ] inclusions
+	- [ ] 1 large cucumber, thinly sliced
+	- [ ] 1/2 red onion, thinly sliced
+	- [ ] 1 tbsp vinegar
+- [ ] assembly
+	- [ ] 6 slices whole wheat bread
+	- [ ] 30g greek yogurt
+	- [ ] 5g dijon mustard
+	- [ ] 2 cups spring mix
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #tofu, #soy_sauce, #lemon, #ginger, #cucumber, #red_onion, #vinegar, #bread, #greek_yogurt, #dijon_mustard
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

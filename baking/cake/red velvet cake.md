@@ -1,22 +1,25 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
+- [ ] wet mix
+	- [ ] 1/2 cup unsalted butter
+	- [ ] 400g granulated sugar
+	- [ ] 240g vegetable oil
+	- [ ] 4 egg yolks
 	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+	- [ ] 1 tsp white vinegar
+	- [ ] 2 tsp red gel food coloring
+- [ ] dry mix
+	- [ ] 360g cake flour
+	- [ ] 1 tsp baking soda
+	- [ ] 10g cocoa powder
+	- [ ] 1/2 tsp salt
+- [ ] combine
+	- [ ] slowly add dry ingredients alternating with 240g buttermilk
+	- [ ] beat in food coloring
+	- [ ] whip 4 egg whites until fluffy and fold into batter
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] two 9 inch cake pans
+	- [ ] 30-32 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #vegetable_oil, #egg, #vanilla_extract, #vinegar
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

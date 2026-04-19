@@ -1,22 +1,20 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
+- [ ] wet mix
+	- [ ] 3/4 cup unsalted butter
+	- [ ] 350g granulated sugar
+	- [ ] 5 large egg whites
+	- [ ] 120g greek yogurt
 	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+	- [ ] 240g whole milk
+- [ ] dry mix
+	- [ ] 295g cake flour
+	- [ ] 2 tsp baking powder
+	- [ ] 0.5 tsp baking soda
+	- [ ] 1 tsp salt
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] two 9 inch cake pans
+	- [ ] 24-25 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #greek_yogurt, #vanilla_extract, #milk, #cake_flour, #baking_powder, #baking_soda, #salt
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

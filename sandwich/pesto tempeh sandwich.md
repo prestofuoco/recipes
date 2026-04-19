@@ -1,22 +1,21 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
-- [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+- [ ] filling
+	- [ ] 8oz tempeh (steamed 10 min. then crumbled)
+	- [ ] 120g greek yogurt
+	- [ ] 45g pesto
+	- [ ] 5g dijon mustard
+	- [ ] 1/2 juiced lemon
+	- [ ] salt & pepper
+- [ ] inclusions
+	- [ ] 2 stalks celery, finely diced
+	- [ ] 1/4 red onion, finely diced
+	- [ ] (optional) 40g feta cheese, crumbled
+- [ ] assembly
+	- [ ] 6 slices whole wheat bread
+	- [ ] 1 large cucumber, thinly sliced
+	- [ ] 2 cups spring mix
+	- [ ] (optional) hummus
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #tempeh, #greek_yogurt, #pesto, #dijon_mustard, #lemon, #celery, #red_onion, #feta_cheese, #bread, #cucumber, #hummus
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

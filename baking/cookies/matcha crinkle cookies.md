@@ -1,22 +1,20 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 1/2 cup butter
+	- [ ] 200g granulated sugar
+	- [ ] 2 eggs
+- [ ] dry mix
+	- [ ] 250g all-purpose flour
+	- [ ] 30g matcha powder
+	- [ ] 1 tsp baking powder
+	- [ ] 1/2 tsp salt
+	- [ ] 1/8 tsp baking soda
+- [ ] rolling
+	- [ ] 50g granulated sugar
+	- [ ] 60g powdered sugar
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] 13-15 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #ap_flour, #matcha_powder, #baking_powder, #salt, #baking_soda, #powdered_sugar
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

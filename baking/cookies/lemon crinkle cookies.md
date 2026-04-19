@@ -1,22 +1,25 @@
-- [ ] mix
-	- [ ] whip 8oz block of cream cheese
-	- [ ] slowly whisk in
-		- [ ] 1 can sweetened condensed milk
-		- [ ] 1 can evaporated milk
-	- [ ] 6 eggs
-	- [ ] 1 tbsp vanilla extract
-- [ ] cook
-	- [ ] 150g sugar
-	- [ ] 60ml water
-	- [ ] cook and stir on medium until sugar dissolved
-	- [ ] swirl occasionally at medium high until golden/amer
-	- [ ] pour into 9 inch cake pan, spread
+- [ ] wet mix
+	- [ ] 3/4 cup butter
+	- [ ] 225g granulated sugar
+	- [ ] 1 egg
+	- [ ] 1 tsp vanilla extract
+	- [ ] 2 lemons
+		- [ ] 60g lemon juice
+		- [ ] 1 tbsp lemon zest
+- [ ] dry mix
+	- [ ] 310g ap flour
+	- [ ] 1 tsp cornstarch
+	- [ ] 1 tsp baking soda
+	- [ ] 1/2 tsp salt
+- [ ] rolling
+	- [ ] 35g granulated sugar
+	- [ ] 120g powdered sugar
 - [ ] bake
-	- [ ] add milk mix on top of caramel
-	- [ ] place cake pan in roasting pan with boiling water
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] chill for at least 3 hours
+	- [ ] roll in sugar blend
+	- [ ] 12-13 minutes @ 350°F
 ## ingredients
-tags: #sweetened_condensed_milk, #evaporated_milk, #egg, #vanilla_extract, #granulated_sugar
+tags: #butter, #granulated_sugar, #egg, #vanilla_extract, #lemon, #ap_flour, #cornstarch, #baking_soda, #salt, #powdered_sugar
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {
