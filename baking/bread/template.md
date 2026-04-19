@@ -16,7 +16,6 @@
     - [ ] turn out dough, score, and transfer to dutch oven
     - [ ] 20 minutes covered @ 450°F
     - [ ] 20-25 minutes uncovered @ 400°F
-
 ## hydration guide
 - 335g water, 70%
 - 360g water, 75%

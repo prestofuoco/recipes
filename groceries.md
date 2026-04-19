@@ -1,0 +1,46 @@
+## dairy & fridge
+- [x] oat milk
+- [x] eggs
+- [x] greek yogurt
+- [x] butter
+- [x] cream cheese
+- [ ] hummus
+- [ ] feta cheese
+## produce & fresh
+- [x] cucumber
+- [x] spring mix
+- [x] apples
+- [x] bananas
+- [x] oranges
+- [x] lemons
+- [ ] zucchini
+- [ ] bell peppers
+- [ ] onions
+- [ ] red onions
+- [ ] celery
+- [ ] ginger
+## proteins & pantry
+- [x] tofu
+- [x] tempeh
+- [x] oats
+- [ ] chickpeas
+- [ ] pesto
+- [ ] spices
+- [ ] dijon mustard
+- [x] protein bars
+- [x] blue agave
+- [x] soy sauce
+- [ ] bread
+## baking
+- [x] ap flour
+- [x] bread flour
+- [x] granulated sugar
+- [x] brown sugar
+- [x] powdered sugar
+- [x] baking soda
+- [x] baking powder
+- [x] chocolate
+- [x] cupcake liners
+- [x] vanilla extract
+- [x] instant yeast
+- [x] cocoa powder

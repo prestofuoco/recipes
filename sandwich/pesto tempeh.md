@@ -1,0 +1,16 @@
+- [ ] filling
+	- [ ] 8oz tempeh (steamed 10 min. then crumbled)
+	- [ ] 120g greek yogurt
+	- [ ] 45g pesto
+	- [ ] 5g dijon mustard
+	- [ ] 1/2 juiced lemon
+	- [ ] salt & pepper
+- [ ] inclusions
+	- [ ] 2 stalks celery, finely diced
+	- [ ] 1/4 red onion, finely diced
+	- [ ] (optional) 40g feta cheese, crumbled
+- [ ] assembly
+	- [ ] 6 slices whole wheat bread
+	- [ ] 1 large cucumber, thinly sliced
+	- [ ] 2 cups spring mix
+	- [ ] (optional) hummus
