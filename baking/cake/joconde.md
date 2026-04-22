@@ -1,21 +1,20 @@
-- [ ] wet mix
-	- [ ] 2 beaten eggs
-	- [ ] 1/2 cup butter
-	- [ ] 135g granulated sugar
-	- [ ] 1/2 tsp vanilla extract
-	- [ ] 3 overripe bananas
+- [ ] meringue (stiff peaks)
+	- [ ] 3 egg whites
+	- [ ] 20g granulated sugar
 - [ ] dry mix
-	- [ ] 120g all-purpose flour
-	- [ ] 28g cocoa powder
-	- [ ] 1 tsp baking soda
-	- [ ] 1/2 tsp salt
-- [ ] add in
-	- [ ] ~170g chocolate chips
+	- [ ] 150g almond flour
+	- [ ] 150g powdered sugar
+	- [ ] 40g ap flour
+	- [ ] 3 eggs
+- [ ] combine
+	- [ ] fold 1/3 of meringue into dry mix
+	- [ ] fold in remaining meringue
+	- [ ] fold in 1/8 cup melted butter
 - [ ] bake
-	- [ ] 9 inch loaf pan
-	- [ ] 50-60 minutes @ 350°F
+	- [ ] lined half sheet (5mm thick)
+	- [ ] 8-10 minutes @ 400°F
 ## ingredients
-tags: #butter, #granulated_sugar, #vanilla_extract, #banana, #ap_flour, #cocoa_powder, #baking_soda, #salt, #chocolate, #egg
+tags: #egg, #granulated_sugar, #almond_flour, #powdered_sugar, #ap_flour, #butter
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

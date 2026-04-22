@@ -1,21 +1,16 @@
-- [ ] wet mix
-	- [ ] 2 beaten eggs
-	- [ ] 1/2 cup butter
-	- [ ] 135g granulated sugar
-	- [ ] 1/2 tsp vanilla extract
-	- [ ] 3 overripe bananas
-- [ ] dry mix
-	- [ ] 120g all-purpose flour
-	- [ ] 28g cocoa powder
-	- [ ] 1 tsp baking soda
-	- [ ] 1/2 tsp salt
-- [ ] add in
-	- [ ] ~170g chocolate chips
-- [ ] bake
-	- [ ] 9 inch loaf pan
-	- [ ] 50-60 minutes @ 350°F
+- [ ] mix in saucepan
+	- [ ] 90g granulated sugar
+	- [ ] 4 egg yolks
+	- [ ] 80g lemon juice
+	- [ ] 8g lemon zest
+	- [ ] 2g salt
+- [ ] saucepan on medium-low
+	- [ ] stir until just thickened
+	- [ ] remove from heat
+- [ ] mix in
+	- [ ] 1/4 cup cubed butter
 ## ingredients
-tags: #butter, #granulated_sugar, #vanilla_extract, #banana, #ap_flour, #cocoa_powder, #baking_soda, #salt, #chocolate, #egg
+tags: #granulated_sugar #egg #lemon #salt #butter
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

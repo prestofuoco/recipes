@@ -1,18 +1,18 @@
 - [ ] wet mix
-  - [ ] 1 cup butter
-  - [ ] 200g granulated sugar
-  - [ ] 3 eggs
-  - [ ] 60g greek yogurt
-  - [ ] 45g lemon juice
-  - [ ] 1 tsp lemon zest
-  - [ ] 1 tsp vanilla extract
+	- [ ] 1 cup butter
+	- [ ] 200g granulated sugar
+	- [ ] 3 eggs
+	- [ ] 60g greek yogurt
+	- [ ] 45g lemon juice
+	- [ ] 1 tsp lemon zest
+	- [ ] 1 tsp vanilla extract
 - [ ] dry mix
-  - [ ] 188g all-purpose flour
-  - [ ] 1.5 tsp baking powder
-  - [ ] 0.5 tsp salt
+	- [ ] 188g all-purpose flour
+	- [ ] 1.5 tsp baking powder
+	- [ ] 0.5 tsp salt
 - [ ] bake
-  - [ ] 9 inch loaf pan
-  - [ ] 55-65 minutes @ 350°F
+	- [ ] 9 inch loaf pan
+	- [ ] 55-65 minutes @ 350°F
 ## ingredients
 tags: #butter, #granulated_sugar, #egg, #greek_yogurt, #lemon, #vanilla_extract, #ap_flour, #baking_powder, #salt
 ```dataviewjs

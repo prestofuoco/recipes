@@ -4,10 +4,9 @@
 - [x] greek yogurt
 - [x] butter
 - [x] cream cheese
-- [x] heavy cream
-- [ ] greek yogurt
-- [ ] hummus
-- [ ] feta cheese
+- [ ] heavy cream
+- [x] hummus
+- [x] feta cheese
 ## produce & fresh
 - [x] cucumber
 - [x] spring mix
@@ -17,9 +16,9 @@
 - [x] orange
 - [x] lemon
 - [ ] zucchini
-- [ ] bell pepper
+- [x] bell pepper
 - [ ] onion
-- [ ] red onion
+- [x] red onion
 - [ ] celery
 - [x] ginger
 ## proteins & pantry
@@ -27,14 +26,14 @@
 - [x] tempeh
 - [x] oats
 - [x] chia seeds
-- [ ] chickpea
+- [x] chickpea
 - [ ] pesto
 - [ ] spices
-- [ ] dijon mustard
-- [x] protein bars
+- [x] dijon mustard
+- [ ] protein bars
 - [x] blue agave
 - [x] soy sauce
-- [ ] bread
+- [x] bread
 - [x] olive oil
 - [x] vegetable oil
 - [x] vinegar
@@ -42,6 +41,7 @@
 - [x] ap flour
 - [x] bread flour
 - [ ] cake flour
+- [ ] almond flour
 - [x] granulated sugar
 - [x] brown sugar
 - [x] powdered sugar
