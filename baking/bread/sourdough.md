@@ -1,22 +1,23 @@
 - [ ] wet mix
-    - [ ] 335g - 390g water
+    - [ ] 335g - 410g water
     - [ ] 100g active sourdough starter
 - [ ] dry mix
     - [ ] 500g bread flour
-    - [ ] 10g fine sea salt
+    - [ ] 10g salt
 - [ ] combine
     - [ ] mix all ingredients until a shaggy dough forms
     - [ ] cover and rest for 30 minutes
     - [ ] perform 4 sets of stretch and folds spaced 30 minutes apart
     - [ ] bulk ferment at room temp until dough volume increases by 50-75%
+	    - usually 4 hours
     - [ ] shape dough and place in banneton
-    - [ ] cold retard in the refrigerator for 12-24 hours
+    - [ ] cold retard in the refrigerator for 12-72 hours
 - [ ] bake
-    - [ ] preheat dutch oven @ 500°F for 1 hour
-    - [ ] turn out dough, score, and transfer to dutch oven
-    - [ ] 20 minutes covered @ 450°F
-    - [ ] 20-25 minutes uncovered @ 400°F
+    - [ ] preheat dutch oven @ 450°F for 45+ minutes
+    - [ ] dough on parchment paper, score, and transfer
+    - [ ] 20 minutes covered
+    - [ ] 20-25 minutes uncovered
 ## hydration guide
-- 335g water, 70%
-- 360g water, 75%
-- 390g water, 80%
+- 350g water, 70%
+- 375g water, 75%
+- 400g water, 80%

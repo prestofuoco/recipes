@@ -1,19 +1,19 @@
 ## dairy & fridge
-- [x] milk
-- [x] egg
+- [ ] milk
+- [ ] egg
 - [x] greek yogurt
-- [x] butter
+- [ ] butter
 - [x] cream cheese
-- [ ] heavy cream
+- [x] heavy cream
 - [x] hummus
 - [x] feta cheese
 ## produce & fresh
 - [x] cucumber
 - [x] spring mix
-- [x] apple
-- [x] banana
+- [ ] apple
+- [ ] banana
 - [x] blueberry
-- [x] orange
+- [ ] orange
 - [x] lemon
 - [ ] zucchini
 - [x] bell pepper
@@ -41,7 +41,7 @@
 - [x] ap flour
 - [x] bread flour
 - [ ] cake flour
-- [ ] almond flour
+- [x] almond flour
 - [x] granulated sugar
 - [x] brown sugar
 - [x] powdered sugar
@@ -52,12 +52,15 @@
 - [x] chocolate
 - [x] cupcake liners
 - [x] vanilla extract
+- [x] almond extract
 - [x] instant yeast
 - [x] cocoa powder
 - [x] matcha powder
+- [x] hojicha powder
 - [x] cinnamon
 - [ ] ground nutmeg
 - [ ] walnut
+- [x] almond
 - [x] salt
 ## canned & shelf-stable
 - [x] evaporated milk
