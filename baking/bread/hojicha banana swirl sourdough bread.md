@@ -21,7 +21,7 @@
 	- [ ] pour a line of melted butter along the center
 	- [ ] 60-65 minutes @ 350°F
 ## ingredients
-tags: #butter, #brown_sugar, #egg, #banana, #ap_flour, #baking_soda, #salt
+tags: #butter, #brown_sugar, #egg, #banana, #ap_flour, #baking_soda, #salt, #hojicha_powder
 ```dataviewjs
 const groceries = dv.page("groceries");
 if (!groceries) {

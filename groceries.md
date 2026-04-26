@@ -1,8 +1,8 @@
 ## dairy & fridge
-- [ ] milk
-- [ ] egg
+- [x] milk
+- [x] egg
 - [x] greek yogurt
-- [ ] butter
+- [x] butter
 - [x] cream cheese
 - [x] heavy cream
 - [x] hummus
@@ -10,8 +10,8 @@
 ## produce & fresh
 - [x] cucumber
 - [x] spring mix
-- [ ] apple
-- [ ] banana
+- [x] apple
+- [x] banana
 - [x] blueberry
 - [ ] orange
 - [x] lemon
