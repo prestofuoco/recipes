@@ -1,0 +1,33 @@
+- [ ] tangzhong
+	- [ ] 30g ap flour
+	- [ ] 150g milk
+- [ ] dough
+	- [ ] 90g milk
+	- [ ] 90g warm water
+	- [ ] instant yeast packet
+	- [ ] 50g granulated sugar
+	- [ ] 510g ap flour
+	- [ ] 1 egg
+	- [ ] 1/4 tsp salt
+	- [ ] tangzhong
+- [ ] almond filling
+	- [ ] 1/2 cup butter
+	- [ ] 100g granulated sugar
+	- [ ] 140g almond flour
+	- [ ] 1 tsp vanilla extract
+	- [ ] 1/2 tsp almond extract
+	- [ ] 1 egg
+	- [ ] 1/4 tsp salt
+- [ ] assembly
+	- [ ] knead complete dough until fully combined
+	- [ ] add 1/2 cup butter in 2 parts
+	- [ ] knead until smooth, glossy
+	- [ ] let rise for 1 hour
+	- [ ] divide into 12 balls and let rise for 45 minutes
+	- [ ] press divot into center of each ball
+	- [ ] brush with egg wash (1 egg)
+	- [ ] add almond filling
+	- [ ] top with roasted almonds
+- [ ] bake
+	- [ ] 13-15 minutes @ 375°F
+	- [ ] dust with powdered sugar

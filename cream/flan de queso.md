@@ -1,0 +1,17 @@
+- [ ] mix
+	- [ ] whip 8oz block of cream cheese
+	- [ ] slowly whisk in
+		- [ ] 1 can sweetened condensed milk
+		- [ ] 1 can evaporated milk
+	- [ ] 6 eggs
+	- [ ] 1 tbsp vanilla extract
+- [ ] cook
+	- [ ] 150g sugar
+	- [ ] 60ml water
+	- [ ] cook and stir on medium until sugar dissolved
+	- [ ] swirl occasionally at medium high until golden/amer
+	- [ ] pour into 9 inch cake pan, spread
+- [ ] bake
+	- [ ] add milk mix on top of caramel
+	- [ ] place cake pan in roasting pan with boiling water
+	- [ ] 50-60 minutes @ 350°F

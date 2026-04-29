@@ -1,0 +1,16 @@
+- [ ] wet mix
+    - [ ] 3/2 cup unsalted butter
+    - [ ] 400g granulated sugar
+    - [ ] 3 large eggs
+    - [ ] 2 egg whites
+    - [ ] 1 tbsp vanilla extract
+- [ ] dry mix
+    - [ ] 433g cake flour
+    - [ ] 1 tsp salt
+    - [ ] 2 tsp baking powder
+    - [ ] 3/4 tsp baking soda
+- [ ] combine
+    - [ ] mix in 360g buttermilk just until combined
+- [ ] bake
+    - [ ] three 9 inch cake pans
+    - [ ] 23-26 minutes @ 350°F

@@ -1,0 +1,9 @@
+- [ ] beat
+	- [ ] 6 tbsp butter
+	- [ ] 100g granulated sugar
+	- [ ] 1/4 tbsp salt
+- [ ] stir in
+	- [ ] 96g almond flour
+	- [ ] 23g ap flour
+	- [ ] 1 egg
+	- [ ] 2 tsp almond extract

@@ -1,0 +1,4 @@
+- [ ] 4:5 ratio
+	- [ ] chocolate
+	- [ ] heavy cream
+- [ ] optionally butter for gloss

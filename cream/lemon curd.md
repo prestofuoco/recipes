@@ -1,0 +1,11 @@
+- [ ] mix in saucepan
+	- [ ] 90g granulated sugar
+	- [ ] 4 egg yolks
+	- [ ] 80g lemon juice
+	- [ ] 8g lemon zest
+	- [ ] 2g salt
+- [ ] saucepan on medium-low
+	- [ ] stir until just thickened
+	- [ ] remove from heat
+- [ ] mix in
+	- [ ] 1/4 cup cubed butter

@@ -1,0 +1,16 @@
+- [ ] wet mix
+	- [ ] 1/2 cup butter, browned
+	- [ ] 100g brown sugar
+	- [ ] 50g granulated sugar
+	- [ ] 1 egg
+	- [ ] 1 tsp vanilla extract
+- [ ] dry mix
+	- [ ] 130g ap flour
+	- [ ] 90g rolled oats
+	- [ ] 1 tsp baking soda
+	- [ ] 1 tsp cinnamon 
+	- [ ] 1 tsp coarse salt
+	- [ ] dark chocolate
+- [ ] bake
+	- [ ] single scoop
+	- [ ] 10-12 minutes @ 350°F

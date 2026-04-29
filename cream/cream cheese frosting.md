@@ -1,0 +1,5 @@
+- [ ] 8oz cream cheese
+- [ ] 1/2 cup butter
+- [ ] 360g powdered sugar
+- [ ] 1 tsp vanilla extract
+- [ ] 1/4 tsp salt
