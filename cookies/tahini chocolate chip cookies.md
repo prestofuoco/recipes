@@ -1,0 +1,17 @@
+- [ ] wet mix
+	- [ ] 90g extra virgin olive oil
+	- [ ] 120g stirred tahini
+	- [ ] 160g dark brown sugar
+	- [ ] 100g granulated sugar
+	- [ ] 95g oat milk
+	- [ ] 8g cornstarch
+	- [ ] 10g vanilla extract
+- [ ] dry mix
+	- [ ] 250g ap flour
+	- [ ] 5g baking soda
+	- [ ] 5g baking powder
+	- [ ] 5g salt
+- [ ] bake
+	- [ ] add chocolate chips, sesame seeds
+	- [ ] 13-15 minutes @ 350°F
+	- [ ] top with flaky sea salt, sesame seeds, flatten
